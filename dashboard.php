@@ -102,6 +102,10 @@ $users = [
 
                         </ul>
 
+                        <div class="mt-4">
+                            <a href="index.php" class="btn btn-success">Volver</a>
+                        </div>
+
                        
                     </div>
                 </div>
