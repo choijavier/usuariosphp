@@ -64,7 +64,7 @@
 
 
                                 <div class="col-lg-12 mt-4">
-                                    <button type="submit" class="btn btn-primary">Envíar</button>
+                                    <button type="submit" class="btn btn-primary">Ingresar</button>
                                 </div>
 
                                 <div class="ref mt-3" style="font-size: 13px; line-height: 16px;">
