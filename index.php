@@ -30,7 +30,7 @@
                                 </span>
                             </div>
                         </header>
-                        <form action="dashboard.php" method="get">
+                        <form action="dashboard.php" method="post">
                             <div class="row">
 
                                 <div class="col-lg-12 mb-3">

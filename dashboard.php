@@ -31,17 +31,17 @@ $users = [
                         <?php 
                         // OBTENEMOS DATOS DEL FORMULARIO
 
-                        $GET=($_GET);
+                        $POST=($_POST);
                         /*
                         echo '<pre>'; 
-                        echo var_dump($GET);   
+                        echo var_dump($POST);   
                         echo '</pre>'; 
                         */
 
-                        $nombre     = $GET['name'];
-                        $pass       = $GET['pass'];
-                        $email       = $GET['email'];
-                        $pais       = $GET['pais'];
+                        $nombre         = $POST['name'];
+                        $pass           = $POST['pass'];
+                        $email          = $POST['email'];
+                        $pais           = $POST['pais'];
 
 
                         /*
